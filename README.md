@@ -15,9 +15,9 @@ WebGIS Modeler是一個基於JavaScript的GIS建模工具，希望能在瀏覽�
 
 ## TODO
 
-* GoJS如何建立互動式流程圖編輯界面
+* GoJS如何建立互動式流程圖編輯界面([example1](https://gojs.net/latest/samples/systemDynamics.html), [example2](https://gojs.net/latest/samples/draggableLink.html))
 * GoJS 圖形與 turf.js 空間分析功能整合，各功能參數及條件。
-* 拖曳的方式上傳檔案(js可做到)，shp上傳(曾經看過日本某地圖網站有，待補。)
+* 拖曳的方式上傳檔案([Using files from web applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications))，shp上傳([shapefile-js](https://github.com/calvinmetcalf/shapefile-js/tree/gh-pages/files))
 * 界面設計及前端框架選用
 * ...
 
@@ -28,3 +28,5 @@ WebGIS Modeler是一個基於JavaScript的GIS建模工具，希望能在瀏覽�
 * [turf.js](https://turfjs.org/)
 * [GoJS](https://gojs.net/latest/learn/index.html)
 * [HTML5 canvas](https://developer.mozilla.org/zh-TW/docs/Web/API/Canvas_API)
+* [Using files from web applications](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
+* [shapefile-js](https://github.com/calvinmetcalf/shapefile-js/tree/gh-pages/files)
